@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quainieka.0xfire.me/sitemap.xml
